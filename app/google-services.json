@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851973052173",
+    "project_id": "uasamub-klikdokter-ti7a",
+    "storage_bucket": "uasamub-klikdokter-ti7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851973052173:android:035167dd321a81a6ba4244",
+        "android_client_info": {
+          "package_name": "com.asus.uasamub_klikdokter_ti7a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851973052173-r1mgdcnnak0tpgfgrlllk96ssfk307hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSKLSZCPNktYl5BVE58WqtOVmHTgN3tfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851973052173-r1mgdcnnak0tpgfgrlllk96ssfk307hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
